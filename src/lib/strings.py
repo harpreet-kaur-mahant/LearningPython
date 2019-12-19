@@ -26,3 +26,5 @@ print(len(multi_line_string))
 
 new_line_character = "Hello \n World"
 print(new_line_character)
+
+print("# Going to learn indexing and slicing")
