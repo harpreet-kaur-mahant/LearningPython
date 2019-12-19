@@ -23,3 +23,6 @@ This is third line"""
 
 print(multi_line_string)
 print(len(multi_line_string))
+
+new_line_character = "Hello \n World"
+print(new_line_character)
